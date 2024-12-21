@@ -22,4 +22,4 @@ A Python-based web scraping tool to extract car details such as names, prices, f
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/car-data-scraper.git
-   cd car-data-scraper
+   cd ackodrive-cars-portal
